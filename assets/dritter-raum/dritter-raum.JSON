@@ -1,0 +1,407 @@
+{
+  "compressionlevel": -1,
+  "height": 5,
+  "infinite": false,
+  "layers": [
+    {
+      "draworder": "topdown",
+      "id": 6,
+      "name": "CollisionLayer",
+      "objects": [
+        {
+          "height": 159.984,
+          "id": 5,
+          "name": "collision-block",
+          "opacity": 1,
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 5,
+          "x": -3.96739,
+          "y": -0.0108696
+        },
+        {
+          "height": 159.984,
+          "id": 6,
+          "name": "collision-block",
+          "opacity": 1,
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 5,
+          "x": 447.011,
+          "y": 0.0302222
+        },
+        {
+          "height": 5,
+          "id": 7,
+          "name": "collision-block",
+          "opacity": 1,
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 448.011,
+          "x": -0.0104167,
+          "y": 159.104
+        },
+        {
+          "height": 67.5362,
+          "id": 9,
+          "name": "collision-block",
+          "opacity": 1,
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 448.104,
+          "x": -0.0416667,
+          "y": -3.625
+        },
+        {
+          "height": 63.9538,
+          "id": 10,
+          "name": "collision-block",
+          "opacity": 1,
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 160,
+          "x": 0,
+          "y": 31.9375
+        },
+        {
+          "height": 9.16768,
+          "id": 14,
+          "name": "collision-block",
+          "opacity": 1,
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16.0848,
+          "x": 39.9737,
+          "y": 145.885
+        },
+        {
+          "height": 40.9091,
+          "id": 19,
+          "name": "collision-block",
+          "opacity": 1,
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 30.1818,
+          "x": 417,
+          "y": 33.9091
+        },
+        {
+          "height": 47.1818,
+          "id": 20,
+          "name": "collision-block",
+          "opacity": 1,
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 24.0909,
+          "x": 387.909,
+          "y": 34
+        },
+        {
+          "height": 11.9347,
+          "id": 23,
+          "name": "collision-block",
+          "opacity": 1,
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 17.9091,
+          "x": 39,
+          "y": 134.974
+        },
+        {
+          "height": 31.1875,
+          "id": 24,
+          "name": "collision-block",
+          "opacity": 1,
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 32.0625,
+          "x": 0,
+          "y": 127.938
+        },
+        {
+          "height": 17.8804,
+          "id": 25,
+          "name": "collision-block",
+          "opacity": 1,
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 16.0598,
+          "x": 391.989,
+          "y": 128.03
+        },
+        {
+          "height": 31.0625,
+          "id": 26,
+          "name": "collision-block",
+          "opacity": 1,
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 29.6875,
+          "x": 417.125,
+          "y": 128
+        },
+        {
+          "height": 25.0625,
+          "id": 27,
+          "name": "collision-block",
+          "opacity": 1,
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 24.1875,
+          "x": 419.938,
+          "y": 69
+        },
+        {
+          "height": 17.375,
+          "id": 28,
+          "name": "collision-block",
+          "opacity": 1,
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 22,
+          "x": 388.938,
+          "y": 76.625
+        }
+      ],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": true,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "draworder": "topdown",
+      "id": 7,
+      "name": "SpawnLayer",
+      "objects": [
+        {
+          "height": 3,
+          "id": 2,
+          "name": "Spawn",
+          "opacity": 1,
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 3,
+          "x": 433.682,
+          "y": 111.682
+        }
+      ],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": true,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "draworder": "topdown",
+      "id": 10,
+      "name": "WeiterLayer",
+      "objects": [
+        {
+          "height": 4.72727,
+          "id": 30,
+          "name": "weiter",
+          "opacity": 1,
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 62.1818,
+          "x": 192.909,
+          "y": 155.091
+        }
+      ],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": true,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "draworder": "topdown",
+      "id": 8,
+      "name": "InteraktionsLayer",
+      "objects": [
+        {
+          "height": 32,
+          "id": 3,
+          "name": "npc",
+          "opacity": 1,
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 32,
+          "x": 160,
+          "y": 64
+        }
+      ],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": true,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "draworder": "topdown",
+      "id": 9,
+      "name": "TuerBarriereLayer",
+      "objects": [
+        {
+          "height": 12,
+          "id": 1,
+          "name": "TuerBarriere",
+          "opacity": 1,
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 64.1818,
+          "x": 191.818,
+          "y": 147.818
+        }
+      ],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": true,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "data": [
+        543, 543, 543, 543, 543, 543, 543, 543, 543, 543, 543, 543, 543, 543,
+        543, 543, 543, 543, 543, 543, 543, 543, 543, 543, 543, 543, 543, 543,
+        543, 543, 543, 543, 543, 543, 543, 543, 543, 543, 543, 543, 543, 543,
+        543, 543, 543, 543, 543, 543, 543, 543, 543, 543, 543, 543, 543, 543,
+        543, 543, 543, 543, 543, 543, 302, 302, 543, 543, 543, 543, 543, 543
+      ],
+      "height": 5,
+      "id": 1,
+      "name": "BodenLayer",
+      "opacity": 1,
+      "type": "tilelayer",
+      "visible": true,
+      "width": 14,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "data": [
+        529, 530, 530, 530, 530, 530, 530, 530, 530, 530, 530, 530, 530, 531,
+        537, 538, 538, 538, 538, 538, 538, 538, 538, 538, 538, 538, 538, 539, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ],
+      "height": 5,
+      "id": 2,
+      "name": "WaendeLayer",
+      "opacity": 1,
+      "type": "tilelayer",
+      "visible": true,
+      "width": 14,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "data": [
+        0, 0, 0, 0, 595, 0, 0, 0, 0, 595, 0, 0, 0, 0, 713, 713, 713, 714, 603,
+        0, 0, 0, 0, 603, 0, 0, 912, 928, 721, 721, 721, 722, 684, 0, 0, 0, 0, 0,
+        0, 0, 920, 936, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 748, 755, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1002, 944
+      ],
+      "height": 5,
+      "id": 3,
+      "name": "MoebelLayer",
+      "opacity": 1,
+      "type": "tilelayer",
+      "visible": true,
+      "width": 14,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "data": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3221225831, 3221225831, 0, 0,
+        0, 0, 0, 0
+      ],
+      "height": 5,
+      "id": 4,
+      "name": "TuerLayer",
+      "opacity": 1,
+      "type": "tilelayer",
+      "visible": true,
+      "width": 14,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "data": [
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 958, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0, 0, 0, 0, 0, 0, 2684355079, 1001, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0, 0
+      ],
+      "height": 5,
+      "id": 5,
+      "name": "KleinkramLayer",
+      "opacity": 1,
+      "type": "tilelayer",
+      "visible": true,
+      "width": 14,
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "nextlayerid": 11,
+  "nextobjectid": 31,
+  "orientation": "orthogonal",
+  "renderorder": "right-down",
+  "tiledversion": "1.12.2",
+  "tileheight": 32,
+  "tilesets": [
+    {
+      "columns": 8,
+      "firstgid": 1,
+      "image": "BaseChip_pipo.png",
+      "imageheight": 4256,
+      "imagewidth": 256,
+      "margin": 0,
+      "name": "BaseChip_pipo",
+      "spacing": 0,
+      "tilecount": 1064,
+      "tileheight": 32,
+      "tilewidth": 32
+    },
+    {
+      "columns": 8,
+      "firstgid": 1065,
+      "image": "BaseChip_pipo.png",
+      "imageheight": 4256,
+      "imagewidth": 256,
+      "margin": 0,
+      "name": "BaseChip_pipo",
+      "spacing": 0,
+      "tilecount": 1064,
+      "tileheight": 32,
+      "tilewidth": 32
+    }
+  ],
+  "tilewidth": 32,
+  "type": "map",
+  "version": "1.10",
+  "width": 14
+}
