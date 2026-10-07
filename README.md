@@ -53,6 +53,6 @@ Der Entwickler hat die Angewohnheit bestimmte Worte mit einer speziellen Bedeutu
 Entwickler: Kiara Schunk (E-mail: kiara.schunk@stud.htwk-leipzig.de )
 
 Dieses Projekt wurde in Auftrag gegeben von dem Zusammenschluss der Stadt Leipzig, über die Stadtbibliothek Leipzig, und ist im Zeitraum eines dreimonatigen Praktikums entwickelt worden.
-Betreuerin und Ansprechpartnerin: Silvana Kühne (E-mail: Silvana.Kuehne@leipzig.de )
+Betreuerin und Ansprechpartnerin:  (E-mail: )
 
 Die verwendeten Assets und deren Ersteller finden Sie in der Datei `Credits der genutzten Assets.???`
